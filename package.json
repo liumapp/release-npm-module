@@ -1,0 +1,31 @@
+{
+  "name": "release-npm-module",
+  "version": "0.0.1",
+  "description": "介绍如何发布项目到NPM中",
+  "author": "liumapp <liumapp.com@gmail.com>",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liumapp/release-npm-module.git"
+  },
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/liumapp/release-npm-module/issues"
+  },
+  "homepage": "https://github.com/liumapp/release-npm-module",
+  "keywords": [
+    "vue",
+    "component",
+    "npm",
+    "release"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ]
+}
