@@ -1,5 +1,5 @@
 # release-npm-module
-Introduce how to release a frontend module to Npm . 介绍如何发布前端项目模块到NPM中央仓库中
+Introduce how to release a Vue2.0 frontend module to Npm . 介绍如何发布Vue前端项目模块到NPM中央仓库中
 
 ## 操作步骤
 
