@@ -35,15 +35,15 @@ Introduce how to release a Vue2.0 frontend module to Npm . 介绍如何发布Vue
 
 * 配置使用
 
-  js:
+	  js:
 
-    import hello from 'release-npm-module'
+	    import hello from 'release-npm-module'
 
-    components: {
-        hello
-    },
+	    components: {
+		hello
+	    },
 
-  html:
+	  html:
 
-   	 <hello></hello>
+		 <hello></hello>
 
