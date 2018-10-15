@@ -27,4 +27,23 @@ Introduce how to release a frontend module to Npm . 介绍如何发布前端项�
 
     发布成功后，将会在邮箱中收到通知
 
+## 使用
+
+* 下载依赖
+
+    npm insta ll --save release-npm-module
+
+* 配置使用
+
+  js:
+
+    import hello from 'release-npm-module'
+
+    components: {
+        hello
+    },
+
+  html:
+
+    <hello></hello>
 
