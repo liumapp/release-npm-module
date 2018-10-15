@@ -45,5 +45,5 @@ Introduce how to release a Vue2.0 frontend module to Npm . 介绍如何发布Vue
 
   html:
 
-    <hello></hello>
+   	 <hello></hello>
 
